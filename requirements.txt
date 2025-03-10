@@ -1,0 +1,6 @@
+pyzstd
+tqdm
+nbtlib
+xxhash
+dearpygui
+pyinstaller
