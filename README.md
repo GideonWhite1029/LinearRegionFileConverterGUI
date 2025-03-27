@@ -19,7 +19,7 @@ This repository hosts tools to convert between `.mca` and `.linear`.
 
 ## Python Prerequisites:
 ```sh
-apt install python3 python3-pip virtualenv
+apt install python3 python3-pip
 virtualenv env
 source env/bin/activate
 pip3 install -r requirements.txt
